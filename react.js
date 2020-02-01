@@ -1,1 +1,1 @@
-alert('o js está funcionando')
+alert('Seja bem vindo!')
